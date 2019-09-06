@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-gridfs-mongdb",
+  "version": "1.0.0",
+  "description": "Using GridFS-Stream to upload/download large-files to MongoDB with Mongoose",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeJS",
+    "GridFS",
+    "GridFS-Stream",
+    "MongoDB",
+    "Express",
+    "Mongoose"
+  ],
+  "author": "JavaSampleApproach.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "gridfs-stream": "^1.1.1",
+    "mongoose": "^5.6.13"
+  }
+}
